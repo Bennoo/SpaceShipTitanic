@@ -13,8 +13,7 @@
 		"vscode": {
 			"extensions": [
 				"ms-python.vscode-pylance",
-				"ms-python.python",
-				"GitHub.copilot"
+				"ms-python.python"
 			]
 		}
 	}
