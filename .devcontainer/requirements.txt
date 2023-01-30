@@ -26,6 +26,7 @@ gast==0.4.0
 google-auth==2.16.0
 google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
+graphviz==0.20.1
 grpcio==1.51.1
 h5py==3.8.0
 idna==3.4
@@ -75,6 +76,7 @@ pure-eval==0.2.2
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycparser==2.21
+pydot==1.4.2
 Pygments==2.13.0
 pylint==2.15.3
 pyparsing==3.0.9
@@ -96,9 +98,9 @@ stack-data==0.5.1
 tensorboard==2.11.2
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
-tensorflow==2.11.0
 tensorflow-cpu-aws==2.11.0
 tensorflow-estimator==2.11.0
+tensorflow-io==0.30.0
 tensorflow-io-gcs-filesystem==0.30.0
 termcolor==2.2.0
 terminado==0.15.0
